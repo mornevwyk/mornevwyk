@@ -1,4 +1,5 @@
 ![Codewars](https://github.r2v.ch/codewars?user=mornwyk&top_languages=true&name=true)
+![Codewars](https://github.r2v.ch/codewars?user=mornwyk&stroke=%23BB432C)
 
 <!--
 **mornevwyk/mornevwyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
